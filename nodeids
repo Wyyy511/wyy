@@ -1,0 +1,5 @@
+[
+  "tests/test_agent_conversation.py::test_agent_status_and_template",
+  "tests/test_agent_conversation.py::test_conversational_demo_auto_baseline_and_scenario",
+  "tests/test_agent_conversation.py::test_no_data_does_not_fake_score"
+]
